@@ -1,0 +1,63 @@
+[
+    {
+      "_from": "classification/tachi_waza",
+      "_to": "classification/nage_waza",
+      "relationship": "is_sub_of"
+    },
+    {
+      "_from": "classification/te_waza",
+      "_to": "classification/tachi_waza",
+      "relationship": "is_sub_of"
+    },
+    {
+      "_from": "classification/koshi_waza",
+      "_to": "classification/tachi_waza",
+      "relationship": "is_sub_of"
+    },
+    {
+      "_from": "classification/ashi_waza",
+      "_to": "classification/tachi_waza",
+      "relationship": "is_sub_of"
+    },
+    {
+      "_from": "classification/sutemi_waza",
+      "_to": "classification/nage_waza",
+      "relationship": "is_sub_of"
+    },
+    {
+      "_from": "classification/ma_sutemi_waza",
+      "_to": "classification/sutemi_waza",
+      "relationship": "is_sub_of"
+    },
+    {
+      "_from": "classification/yoko_sutemi_waza",
+      "_to": "classification/sutemi_waza",
+      "relationship": "is_sub_of"
+    },
+    {
+      "_from": "classification/osaekomi_waza",
+      "_to": "classification/katame_waza",
+      "relationship": "is_sub_of"
+    },
+    {
+      "_from": "classification/shime_waza",
+      "_to": "classification/katame_waza",
+      "relationship": "is_sub_of"
+    },
+    {
+      "_from": "classification/kansetsu_waza",
+      "_to": "classification/katame_waza",
+      "relationship": "is_sub_of"
+    },
+    {
+      "_from": "classification/ude_ate",
+      "_to": "classification/atemi_waza",
+      "relationship": "is_sub_of"
+    },
+    {
+      "_from": "classification/ashi_ate",
+      "_to": "classification/atemi_waza",
+      "relationship": "is_sub_of"
+    }
+  ]
+  

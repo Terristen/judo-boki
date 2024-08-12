@@ -1,0 +1,248 @@
+[
+    {
+      "_from": "technique/de_ashi_barai",
+      "_to": "classification/ashi_waza",
+      "relationship": "is_in"
+    },
+    {
+      "_from": "technique/hiza_guruma",
+      "_to": "classification/ashi_waza",
+      "relationship": "is_in"
+    },
+    {
+      "_from": "technique/sasae_tsuri_komi_ashi",
+      "_to": "classification/ashi_waza",
+      "relationship": "is_in"
+    },
+    {
+      "_from": "technique/osoto_gari",
+      "_to": "classification/ashi_waza",
+      "relationship": "is_in"
+    },
+    {
+      "_from": "technique/osoto_otoshi",
+      "_to": "classification/ashi_waza",
+      "relationship": "is_in"
+    },
+    {
+      "_from": "technique/kosoto_gari",
+      "_to": "classification/ashi_waza",
+      "relationship": "is_in"
+    },
+    {
+      "_from": "technique/kosoto_gake",
+      "_to": "classification/ashi_waza",
+      "relationship": "is_in"
+    },
+    {
+      "_from": "technique/osoto_guruma",
+      "_to": "classification/ashi_waza",
+      "relationship": "is_in"
+    },
+    {
+      "_from": "technique/ouchi_gari",
+      "_to": "classification/ashi_waza",
+      "relationship": "is_in"
+    },
+    {
+      "_from": "technique/kouchi_gari",
+      "_to": "classification/ashi_waza",
+      "relationship": "is_in"
+    },
+    {
+      "_from": "technique/kosoto_gake",
+      "_to": "classification/ashi_waza",
+      "relationship": "is_in"
+    },
+    {
+      "_from": "technique/harai_goshi",
+      "_to": "classification/koshi_waza",
+      "relationship": "is_in"
+    },
+    {
+      "_from": "technique/ushiro_goshi",
+      "_to": "classification/koshi_waza",
+      "relationship": "is_in"
+    },
+    {
+      "_from": "technique/koshi_guruma",
+      "_to": "classification/koshi_waza",
+      "relationship": "is_in"
+    },
+    {
+      "_from": "technique/tsuri_goshi",
+      "_to": "classification/koshi_waza",
+      "relationship": "is_in"
+    },
+    {
+      "_from": "technique/hane_goshi",
+      "_to": "classification/koshi_waza",
+      "relationship": "is_in"
+    },
+    {
+      "_from": "technique/hane_goshi_gaeshi",
+      "_to": "classification/koshi_waza",
+      "relationship": "is_in"
+    },
+    {
+      "_from": "technique/harai_goshi",
+      "_to": "classification/koshi_waza",
+      "relationship": "is_in"
+    },
+    {
+      "_from": "technique/tsuri_goshi_gaeshi",
+      "_to": "classification/koshi_waza",
+      "relationship": "is_in"
+    },
+    {
+      "_from": "technique/tai_otoshi",
+      "_to": "classification/te_waza",
+      "relationship": "is_in"
+    },
+    {
+      "_from": "technique/ippon_seoi_nage",
+      "_to": "classification/te_waza",
+      "relationship": "is_in"
+    },
+    {
+      "_from": "technique/morote_seoi_nage",
+      "_to": "classification/te_waza",
+      "relationship": "is_in"
+    },
+    {
+      "_from": "technique/kata_guruma",
+      "_to": "classification/te_waza",
+      "relationship": "is_in"
+    },
+    {
+      "_from": "technique/uki_goshi",
+      "_to": "classification/koshi_waza",
+      "relationship": "is_in"
+    },
+    {
+      "_from": "technique/ura_nage",
+      "_to": "classification/sutemi_waza",
+      "relationship": "is_in"
+    },
+    {
+      "_from": "technique/yoko_otoshi",
+      "_to": "classification/sutemi_waza",
+      "relationship": "is_in"
+    },
+    {
+      "_from": "technique/sumi_gaeshi",
+      "_to": "classification/sutemi_waza",
+      "relationship": "is_in"
+    },
+    {
+      "_from": "technique/tani_otoshi",
+      "_to": "classification/sutemi_waza",
+      "relationship": "is_in"
+    },
+    {
+      "_from": "technique/yoko_gake",
+      "_to": "classification/sutemi_waza",
+      "relationship": "is_in"
+    },
+    {
+      "_from": "technique/kata_guruma",
+      "_to": "classification/sutemi_waza",
+      "relationship": "is_in"
+    },
+    {
+      "_from": "technique/tsuri_goshi_gaeshi",
+      "_to": "classification/sutemi_waza",
+      "relationship": "is_in"
+    },
+    {
+      "_from": "technique/tomoe_nage",
+      "_to": "classification/sutemi_waza",
+      "relationship": "is_in"
+    },
+    {
+      "_from": "technique/yoko_tomoe_nage",
+      "_to": "classification/sutemi_waza",
+      "relationship": "is_in"
+    },
+    {
+      "_from": "technique/uchi_mata",
+      "_to": "classification/ashi_waza",
+      "relationship": "is_in"
+    },
+    {
+      "_from": "technique/uchi_mata_gaeshi",
+      "_to": "classification/ashi_waza",
+      "relationship": "is_in"
+    },
+    {
+      "_from": "technique/kata_guruma",
+      "_to": "classification/te_waza",
+      "relationship": "is_in"
+    },
+    {
+      "_from": "technique/osoto_gaeshi",
+      "_to": "classification/ashi_waza",
+      "relationship": "is_in"
+    },
+    {
+      "_from": "technique/osoto_makikomi",
+      "_to": "classification/ashi_waza",
+      "relationship": "is_in"
+    },
+    {
+      "_from": "technique/uchi_mata",
+      "_to": "classification/ashi_waza",
+      "relationship": "is_in"
+    },
+    {
+      "_from": "technique/uchimata_sukashi",
+      "_to": "classification/ashi_waza",
+      "relationship": "is_in"
+    },
+    {
+      "_from": "technique/yoko_wakare",
+      "_to": "classification/sutemi_waza",
+      "relationship": "is_in"
+    },
+    {
+      "_from": "technique/ushiro_otoshi",
+      "_to": "classification/sutemi_waza",
+      "relationship": "is_in"
+    },
+    {
+      "_from": "technique/soto_makikomi",
+      "_to": "classification/sutemi_waza",
+      "relationship": "is_in"
+    },
+    {
+      "_from": "technique/sumi_otoshi",
+      "_to": "classification/sutemi_waza",
+      "relationship": "is_in"
+    },
+    {
+      "_from": "technique/yoko_guruma",
+      "_to": "classification/sutemi_waza",
+      "relationship": "is_in"
+    },
+    {
+      "_from": "technique/harai_makikomi",
+      "_to": "classification/sutemi_waza",
+      "relationship": "is_in"
+    },
+    {
+      "_from": "technique/obitori_gaeshi",
+      "_to": "classification/sutemi_waza",
+      "relationship": "is_in"
+    },
+    {
+      "_from": "technique/yoko_otoshi",
+      "_to": "classification/sutemi_waza",
+      "relationship": "is_in"
+    },
+    {
+      "_from": "technique/morote_gari",
+      "_to": "classification/te_waza",
+      "relationship": "is_in"
+    }
+  ]
+  

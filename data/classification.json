@@ -1,0 +1,92 @@
+[
+    {
+      "_key": "nage_waza",
+      "name": "NAGE-WAZA",
+      "translation": "Throwing Techniques",
+      "description": "Techniques in which the opponent is thrown. Kodokan judo includes (since 1st April 2017) 68 official throwing techniques and is divided in tachi-waza (standing techniques) and sutemi-waza (sacrifice techniques). Tachi-waza includes te-waza (16 hand techniques), koshi-waza (10 hip techniques) and ashi-waza (21 foot and leg techniques). Sutemi-waza includes ma-sutemi-waza (5 supine or rear sacrifice techniques) and yoko-sutemi-waza (16 side sacrifice techniques)."
+    },
+    {
+      "_key": "tachi_waza",
+      "name": "TACHI-WAZA",
+      "translation": "Standing Techniques",
+      "description": "Techniques executed from a standing position."
+    },
+    {
+      "_key": "te_waza",
+      "name": "TE-WAZA",
+      "translation": "Hand Techniques",
+      "description": "Classification for throwing techniques in which the use of the hand play a central role. Since 1st April 2017 Kodokan Judo Classification includes 16 official hand techniques."
+    },
+    {
+      "_key": "koshi_waza",
+      "name": "KOSHI-WAZA",
+      "translation": "Hip Techniques",
+      "description": "Classification for throwing techniques in which the use of the waist and hips plays a central role. Since 1st April 2017 Kodokan Judo Classification includes 10 official hip techniques."
+    },
+    {
+      "_key": "ashi_waza",
+      "name": "ASHI-WAZA",
+      "translation": "Foot Techniques",
+      "description": "Classification for throwing techniques in which the use of the feet and/or legs plays the central role. Kodokan Judo Classification includes 21 official foot and leg techniques."
+    },
+    {
+      "_key": "sutemi_waza",
+      "name": "SUTEMI-WAZA",
+      "translation": "Sacrifice Techniques",
+      "description": "General term for throws in which the thrower “sacrifices” himself by falling to the rear or side as part of the process of the throw. Divided into supine (ma-sutemi) and side sacrifice (yoko-sutemi) throws, depending on the type and direction of the fall."
+    },
+    {
+      "_key": "ma_sutemi_waza",
+      "name": "MA-SUTEMI-WAZA",
+      "translation": "Rear Sacrifice Techniques",
+      "description": "Classification for throwing techniques in which the thrower “sacrifice” himself by falling onto his back in the process of throwing the opponent. Kodokan Judo Classification includes 5 official supine or rear techniques."
+    },
+    {
+      "_key": "yoko_sutemi_waza",
+      "name": "YOKO-SUTEMI-WAZA",
+      "translation": "Side Sacrifice Techniques",
+      "description": "Classification for throwing techniques in which the throwers “sacrifice” himself by falling to the right or left in the process of throwing the opponent. Since 1st April 2017 Kodokan Judo Classification includes 16 official side sacrifice techniques."
+    },
+    {
+      "_key": "katame_waza",
+      "name": "KATAME-WAZA",
+      "translation": "Grappling Techniques",
+      "description": "General name for hold-downs, strangles, and joint and other locks used in grappling. Katame-waza is divided (since 1st April 2017) in osaekomi-waza (10 pinning techniques), shime-waza (12 strangling techniques) and kansetsu-waza (10 joint techniques)."
+    },
+    {
+      "_key": "osaekomi_waza",
+      "name": "OSAEKOMI-WAZA",
+      "translation": "Pinning Techniques",
+      "description": "Mat techniques used to pin a supine opponent to the mat, generally from the side or diagonally, to inhibit his freedom of movement and prevent him from rising. Since 1st April 2017 Kodokan Judo Classification includes 10 official pinning techniques."
+    },
+    {
+      "_key": "shime_waza",
+      "name": "SHIME-WAZA",
+      "translation": "Strangulation Techniques",
+      "description": "Techniques in which the opponent is strangled by applying pressure to parts of his neck. Kodokan Judo Classification includes 12 official strangling techniques."
+    },
+    {
+      "_key": "kansetsu_waza",
+      "name": "KANSETSU-WAZA",
+      "translation": "Joint Locking Techniques",
+      "description": "Techniques that act on an opponent’s joints. The only joint techniques that are allowed in judo matches are those that act against the opponent’s elbow joint. Kodokan Judo Classification includes 10 official joint techniques."
+    },
+    {
+      "_key": "atemi_waza",
+      "name": "ATEMI-WAZA",
+      "translation": "Striking Techniques",
+      "description": "Thrusts, strikes and kicks, particularly to physiologically weak areas of the body (vital points), using fists, fingertips, the edge of the hands, elbows, knees, or various parts of the feet. Because of their inherent danger, atemi-waza are prohibited during judo matches and sparring sessions.Atemi-waza is divided in ude-ate (hand and elbow striking techniques) and ashi-ate (foot and knee striking techniques)."
+    },
+    {
+      "_key": "ude_ate",
+      "name": "UDE-ATE",
+      "translation": "Arm Striking Techniques",
+      "description": "Strikes that are delivered with the hand or elbow."
+    },
+    {
+      "_key": "ashi_ate",
+      "name": "ASHI-ATE",
+      "translation": "Foot Striking Techniques",
+      "description": "Strike that are delivered with the foot or knee."
+    }
+  ]

@@ -1,0 +1,291 @@
+[
+    {
+      "_key": "de_ashi_barai",
+      "name": "De-ashi-barai",
+      "translation": "Advanced Foot Sweep",
+      "description": "A technique where you sweep the opponent’s foot as they step forward.",
+      "ijf_legal": true
+    },
+    {
+      "_key": "hane_goshi",
+      "name": "Hane-goshi",
+      "translation": "Spring Hip Throw",
+      "description": "A technique where you lift the opponent with your hip and throw them over.",
+      "ijf_legal": true
+    },
+    {
+      "_key": "hane_goshi_gaeshi",
+      "name": "Hane-goshi-gaeshi",
+      "translation": "Counter Spring Hip Throw",
+      "description": "A counter technique to Hane-goshi, where you reverse the throw.",
+      "ijf_legal": true
+    },
+    {
+      "_key": "harai_goshi",
+      "name": "Harai-goshi",
+      "translation": "Sweeping Hip Throw",
+      "description": "A sweeping throw where you use your hip to sweep the opponent’s legs from under them.",
+      "ijf_legal": true
+    },
+    {
+      "_key": "harai_makikomi",
+      "name": "Harai-makikomi",
+      "translation": "Sweeping Wraparound",
+      "description": "A technique where the attacker sweeps the opponent’s leg while wrapping them for a throw.",
+      "ijf_legal": true
+    },
+    {
+      "_key": "hiza_guruma",
+      "name": "Hiza-guruma",
+      "translation": "Knee Wheel",
+      "description": "A technique where you block the opponent’s knee and turn them over the block.",
+      "ijf_legal": true
+    },
+    {
+      "_key": "kata_guruma",
+      "name": "Kata-guruma",
+      "translation": "Shoulder Wheel",
+      "description": "A technique where you lift the opponent onto your shoulders and throw them.",
+      "ijf_legal": false
+    },
+    {
+      "_key": "koshi_guruma",
+      "name": "Koshi-guruma",
+      "translation": "Hip Wheel",
+      "description": "A hip throw where you pull the opponent around your hip to throw them.",
+      "ijf_legal": true
+    },
+    {
+      "_key": "kosoto_gake",
+      "name": "Kosoto-gake",
+      "translation": "Minor Outer Hook",
+      "description": "A technique where you hook the opponent’s outside foot to throw them.",
+      "ijf_legal": true
+    },
+    
+    {
+      "_key": "kosoto_gari",
+      "name": "Kosoto-gari",
+      "translation": "Minor Outer Reap",
+      "description": "A technique where you sweep the opponent’s outside foot to unbalance them.",
+      "ijf_legal": true
+    },
+    {
+      "_key": "kouchi_gari",
+      "name": "Kouchi-gari",
+      "translation": "Minor Inner Reap",
+      "description": "A technique where you sweep the opponent’s inside leg.",
+      "ijf_legal": true
+    },
+    
+    
+    {
+      "_key": "morote_gari",
+      "name": "Morote-gari",
+      "translation": "Two-hand Reap",
+      "description": "A technique where the attacker uses both hands to grab the opponent’s legs and sweep them.",
+      "ijf_legal": false
+    },
+    {
+      "_key": "obitori_gaeshi",
+      "name": "Obitori-gaeshi",
+      "translation": "Belt Grab Reversal",
+      "description": "A counter technique to a belt grab, where the attacker reverses the throw.",
+      "ijf_legal": false
+    },
+    {
+      "_key": "osoto_gaeshi",
+      "name": "Osoto-gaeshi",
+      "translation": "Counter Outer Reap",
+      "description": "A counter technique to Osoto-gari, where you reverse the opponent's throw.",
+      "ijf_legal": true
+    },
+    {
+      "_key": "osoto_gari",
+      "name": "Osoto-gari",
+      "translation": "Major Outer Reap",
+      "description": "A technique where you reap the opponent’s leg to throw them down.",
+      "ijf_legal": true
+    },
+    {
+      "_key": "osoto_guruma",
+      "name": "Osoto-guruma",
+      "translation": "Major Outer Wheel",
+      "description": "A technique similar to Osoto-gari, but with a sweeping wheel-like motion.",
+      "ijf_legal": true
+    },
+    {
+      "_key": "osoto_makikomi",
+      "name": "Osoto-makikomi",
+      "translation": "Major Outer Wraparound",
+      "description": "A variation of Osoto-gari where the attacker uses a wrapping motion to throw the opponent.",
+      "ijf_legal": true
+    },
+    {
+      "_key": "osoto_otoshi",
+      "name": "Osoto-otoshi",
+      "translation": "Major Outer Drop",
+      "description": "A variation of Osoto-gari where the throw is executed by dropping the opponent.",
+      "ijf_legal": true
+    },
+    {
+      "_key": "ouchi_gari",
+      "name": "Ouchi-gari",
+      "translation": "Major Inner Reap",
+      "description": "A technique where you reap the opponent’s inside leg to unbalance them.",
+      "ijf_legal": true
+    },
+    {
+      "_key": "sasae_tsuri_komi_ashi",
+      "name": "Sasae-tsuri-komi-ashi",
+      "translation": "Propping Drawing Ankle Throw",
+      "description": "A technique where you block the opponent’s ankle and turn them over the block.",
+      "ijf_legal": true
+    },
+    {
+      "_key": "soto_makikomi",
+      "name": "Soto-makikomi",
+      "translation": "Outer Wraparound",
+      "description": "A technique where the attacker wraps around the opponent to throw them.",
+      "ijf_legal": true
+    },
+    {
+      "_key": "sumi_gaeshi",
+      "name": "Sumi-gaeshi",
+      "translation": "Corner Reversal",
+      "description": "A sacrifice throw where you drop backward and throw the opponent over your shoulder.",
+      "ijf_legal": true
+    },
+    {
+      "_key": "sumi_otoshi",
+      "name": "Sumi-otoshi",
+      "translation": "Corner Drop",
+      "description": "A technique where the attacker drops the opponent to a corner using a sweeping motion.",
+      "ijf_legal": true
+    },
+    
+    {
+      "_key": "tai_otoshi",
+      "name": "Tai-otoshi",
+      "translation": "Body Drop",
+      "description": "A technique where you block the opponent’s leg and pull them over to throw them.",
+      "ijf_legal": true
+    },
+    {
+      "_key": "tani_otoshi",
+      "name": "Tani-otoshi",
+      "translation": "Valley Drop",
+      "description": "A technique where you pull the opponent backwards while dropping to the mat.",
+      "ijf_legal": true
+    },
+    {
+      "_key": "tomoe_nage",
+      "name": "Tomoe-nage",
+      "translation": "Circular Throw",
+      "description": "A sacrifice throw where you fall backwards and throw the opponent using a circular motion.",
+      "ijf_legal": true
+    },
+    {
+      "_key": "tsuri_goshi",
+      "name": "Tsuri-goshi",
+      "translation": "Lifting Hip Throw",
+      "description": "A hip throw where you lift the opponent by the belt and throw them.",
+      "ijf_legal": true
+    },
+    {
+      "_key": "tsuri_goshi_gaeshi",
+      "name": "Tsuri-goshi-gaeshi",
+      "translation": "Counter Lifting Hip Throw",
+      "description": "A counter technique to Tsuri-goshi, where you reverse the throw.",
+      "ijf_legal": true
+    },
+    {
+      "_key": "uchi_mata",
+      "name": "Uchi-mata",
+      "translation": "Inner Thigh Throw",
+      "description": "A technique where you lift the opponent by the inner thigh and throw them down.",
+      "ijf_legal": true
+    },
+    {
+      "_key": "uchi_mata_gaeshi",
+      "name": "Uchi-mata-gaeshi",
+      "translation": "Counter Inner Thigh Throw",
+      "description": "A counter technique to Uchi-mata, where you reverse the throw.",
+      "ijf_legal": true
+    },
+    {
+      "_key": "uchimata_sukashi",
+      "name": "Uchimata-sukashi",
+      "translation": "Uchimata Avoid",
+      "description": "A technique where the attacker steps around an Uchi-mata attempt to counter-throw.",
+      "ijf_legal": true
+    },
+    {
+      "_key": "uki_goshi",
+      "name": "Uki-goshi",
+      "translation": "Floating Hip Throw",
+      "description": "A hip throw where you pull the opponent slightly upward as you throw them.",
+      "ijf_legal": true
+    },
+    
+    {
+      "_key": "ura_nage",
+      "name": "Ura-nage",
+      "translation": "Rear Throw",
+      "description": "A technique where you lift the opponent from behind and throw them backward.",
+      "ijf_legal": true
+    },
+    {
+      "_key": "ushiro_goshi",
+      "name": "Ushiro-goshi",
+      "translation": "Rear Throw",
+      "description": "A technique where you lift the opponent by the waist and throw them backward.",
+      "ijf_legal": true
+    },
+    
+    {
+      "_key": "ushiro_otoshi",
+      "name": "Ushiro-otoshi",
+      "translation": "Rear Drop",
+      "description": "A technique where the attacker pulls the opponent backwards to throw them.",
+      "ijf_legal": true
+    },
+    {
+      "_key": "yoko_gake",
+      "name": "Yoko-gake",
+      "translation": "Side Hook",
+      "description": "A sacrifice throw where you use a hooking action to throw the opponent.",
+      "ijf_legal": true
+    },
+    {
+      "_key": "yoko_guruma",
+      "name": "Yoko-guruma",
+      "translation": "Side Wheel",
+      "description": "A sacrifice throw where you turn sideways to throw the opponent.",
+      "ijf_legal": true
+    },
+    
+    {
+      "_key": "yoko_otoshi",
+      "name": "Yoko-otoshi",
+      "translation": "Side Drop",
+      "description": "A technique where you drop to the side and throw the opponent using a sideways motion.",
+      "ijf_legal": true
+    },
+    
+    
+    {
+      "_key": "yoko_tomoe_nage",
+      "name": "Yoko-tomoe-nage",
+      "translation": "Side Circular Throw",
+      "description": "A side variation of Tomoe-nage, where you throw the opponent using a sideways motion.",
+      "ijf_legal": true
+    },
+    {
+      "_key": "yoko_wakare",
+      "name": "Yoko-wakare",
+      "translation": "Side Separation",
+      "description": "A sacrifice throw where the attacker falls to the side, separating from the opponent.",
+      "ijf_legal": true
+    }
+  ]
